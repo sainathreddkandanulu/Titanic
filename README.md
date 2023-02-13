@@ -17,7 +17,6 @@ The training set was used to build the machine learning model. For the training 
 The test set was used to see how well the model performed on unseen data. For the test set, the ground truth for each passenger was not provided. For each passenger in the test set, the trained model was used to predict whether or not they survived the sinking of the Titanic.
 
 # Data Dictionary
-"""
 | Variable      | Definition:       | Key   |
 | :------------ |:--------------- |:-----|
 | Survival      | Survival     |0 = No, 1 = Yes|
@@ -29,7 +28,6 @@ The test set was used to see how well the model performed on unseen data. For th
 | Fare          | Passenger fare   |  |
 |Cabin          |Cabin Number|  |
 | Embarked      | Port of Embarkation|C=Cherbourg/ Q=Queenstown/ S=Southampton|
-"""
 
 **Variable Notes:**
 - pclass: A proxy for socio-economic status (SES)
@@ -44,3 +42,6 @@ The test set was used to see how well the model performed on unseen data. For th
 - Parent = mother, father
 - Child = daughter, son, stepdaughter, stepson
 - Some children travelled only with a nanny, therefore parch=0 for them.
+
+## Author:
+[FK Baffour](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
