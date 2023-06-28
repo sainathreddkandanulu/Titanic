@@ -43,5 +43,7 @@ The test set was used to see how well the model performed on unseen data. For th
 - Child = daughter, son, stepdaughter, stepson
 - Some children travelled only with a nanny, therefore parch=0 for them.
 
-## Author:
-[FK Baffour](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
+Access links:
+Web App: https://lnkd.in/e6WkPRNr
+GitHub Repo: https://lnkd.in/eVQnSiFn
+Project API repo: https://lnkd.in/ecsFmMiw
